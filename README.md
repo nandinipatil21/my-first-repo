@@ -2,7 +2,7 @@
 This is my Git practice project.
 Hello! This is my first GitHub project.
 I am learning branches now!
-
+Something added to Readme file
 
 
 ## h2
